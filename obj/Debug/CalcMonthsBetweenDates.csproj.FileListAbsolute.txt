@@ -1,0 +1,7 @@
+C:\Users\iurif\Downloads\Iuri\Projects\CalcMonthsBetweenDates\bin\Debug\CalcMonthsBetweenDates.exe.config
+C:\Users\iurif\Downloads\Iuri\Projects\CalcMonthsBetweenDates\bin\Debug\CalcMonthsBetweenDates.exe
+C:\Users\iurif\Downloads\Iuri\Projects\CalcMonthsBetweenDates\bin\Debug\CalcMonthsBetweenDates.pdb
+C:\Users\iurif\Downloads\Iuri\Projects\CalcMonthsBetweenDates\obj\Debug\CalcMonthsBetweenDates.csproj.AssemblyReference.cache
+C:\Users\iurif\Downloads\Iuri\Projects\CalcMonthsBetweenDates\obj\Debug\CalcMonthsBetweenDates.csproj.CoreCompileInputs.cache
+C:\Users\iurif\Downloads\Iuri\Projects\CalcMonthsBetweenDates\obj\Debug\CalcMonthsBetweenDates.exe
+C:\Users\iurif\Downloads\Iuri\Projects\CalcMonthsBetweenDates\obj\Debug\CalcMonthsBetweenDates.pdb
